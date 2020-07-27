@@ -1,7 +1,7 @@
 {
     "name": "Build Workflow",
     "description": "CI workflow template.",
-    "iconName": "example-icon",
+    "iconName": "xcode",
     "categories": [
         "JavaScript"
     ]
