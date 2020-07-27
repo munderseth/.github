@@ -1,0 +1,8 @@
+{
+    "name": "Build Workflow",
+    "description": "CI workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "JavaScript"
+    ]
+}

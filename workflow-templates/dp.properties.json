@@ -1,0 +1,8 @@
+{
+    "name": "Workflow Dispatch",
+    "description": "Workflow Dispatch template.",
+    "iconName": "example-icon",
+    "categories": [
+        "Manual"
+    ]
+}
