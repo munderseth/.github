@@ -1,20 +1,6 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
- "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
- width="76.000000pt" height="76.000000pt" viewBox="0 0 76.000000 76.000000"
- preserveAspectRatio="xMidYMid meet">
-
-<g transform="translate(0.000000,76.000000) scale(0.100000,-0.100000)"
-fill="#000000" stroke="none">
-<path d="M340 743 c-69 -26 -102 -93 -81 -164 12 -39 11 -43 -12 -67 -23 -22
--28 -23 -62 -12 -73 24 -145 -11 -166 -80 -14 -47 -7 -79 27 -119 31 -37 82
--53 126 -40 29 8 36 5 64 -22 29 -28 31 -33 21 -65 -27 -89 54 -177 148 -160
-72 14 120 98 96 168 -10 29 -9 35 17 61 27 26 32 28 66 19 98 -28 188 66 156
-163 -22 66 -89 96 -167 75 -42 -12 -46 -12 -69 12 -24 23 -24 26 -9 54 20 38
-19 72 -3 113 -29 54 -100 83 -152 64z m-26 -232 c11 -18 75 -22 109 -7 34 14
-36 13 62 -14 25 -26 26 -32 16 -61 -15 -43 -14 -65 6 -106 16 -34 16 -35 -10
--60 -25 -26 -25 -26 -68 -9 -43 17 -85 15 -121 -8 -13 -8 -23 -8 -35 0 -32 20
--37 40 -20 77 20 42 21 71 3 112 -12 28 -11 32 12 58 27 29 37 33 46 18z"/>
-</g>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" style="width:0;height:0;position:absolute;overflow:hidden;">
+  <defs>
+<symbol viewBox="0 0 1024 1024" aria-labelledby="bmsi-ant-circle-o-down-title" id="si-ant-circle-o-down"><title id="bmsi-ant-circle-o-down-title">icon circle-o-down</title><path d="M512 64q91 0 174 35 81 34 143 96t96 143q35 83 35 174t-35 174q-34 81-96 143t-143 96q-83 35-174 35t-174-35q-81-34-143-96T99 686q-35-83-35-174t35-174q34-81 96-143t143-96q83-35 174-35zm0-64Q373 0 255 68.5T68.5 255 0 512t68.5 257T255 955.5t257 68.5 257-68.5T955.5 769t68.5-257-68.5-257T769 68.5 512 0zm22 695l258-257q9-10 9-23t-9-23q-10-9-23-9t-23 9L511 627 278 394q-10-10-23-10t-23 10q-9 9-9 22t9 23l256 256q10 9 23 9t23-9z"/></symbol>
+  </defs>
 </svg>
